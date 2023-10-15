@@ -1,6 +1,7 @@
 # FLUXO and Flou.jl simulations
 
-[![arXiv:2211.05066](https://img.shields.io/badge/arXiv-2211.05066-green?style=flat-square)](https://arxiv.org/abs/2211.05066)
+[![arxiv](https://img.shields.io/badge/arXiv-2211.05066-red?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2211.05066)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jcp.2023.112298-blue?style=flat-square&logo=doi)](https://doi.org/10.1016/j.jcp.2023.112298)
 
 This repository contains code and instructions to reproduce the results reported in the article
 
